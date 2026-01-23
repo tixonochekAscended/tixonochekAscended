@@ -1,2 +1,15 @@
 ## 👋 Hi, I’m @tixonochekAscended
-This is an account that is owned by tixonochek. I am a programming-languages enthusiast and love to create my own. All software should be open-source and free to use; privacy is supposed to be real. If you'd like to learn more information regarding me, [here's my website.](https://tixonochek.dev/)
+This is an account that is owned by tixonochek. I am a programming–languages enthusiast and love to create my own. All software should be open–source and free to use; privacy is supposed to be real. If you'd like to learn more information regarding me, [here's my website.](https://tixonochek.dev/)
+
+## 🫂 Моя Discord–спільнота
+Набридли мертві сервери, де в чатах лише тиша та спам? Приєднуйся до офіційного сервера **tixonochek** – місця, де ламаються стереотипи та створюється нестандартне. Ми побудували простір для тих, хто цінує чистий код, українську мову та затишну атмосферу.
+
+**Що на тебе чекає всередині:**
+* 🇺🇦 **Україномовний простір:** Найкраща спільнота розробників, які спілкуються рідною мовою
+* 🧙 **Магія коду:** Ми не обмежуємось стандартами й щиро фанатіємо від езотеричних та нестандартних мов програмування
+* 🎤 **Активний Voice:** Забудь про порожні канали – у нас завжди жива атмосфера, де можна потеревенити про технології чи просто за життя
+* 🤝 **Колаборації та нетворкінг:** Тут народжуються партнерства, де кожен може знайти однодумця для реалізації сміливих ідей
+* 🌐 **Справжні проєкти:** Ми не теоретики – у нас кипить робота над живими проєктами, до яких ти можеш долучитися прямо зараз
+* 🌱 **Відкритість до кожного:** Не шариш як кодити? Не проблема! Заходь просто поспілкуватися, а якщо колись заінспіруєшся нашим вайбом — ми обов'язково навчимо та підкажемо з чого почати
+
+Не зволікай, [приєднуйся до найкращих вже зараз!](https://onlito.link/P5MLOz)
