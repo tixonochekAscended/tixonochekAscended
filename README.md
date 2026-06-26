@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @tixonochekAscended
-This is an account that is owned by tixonochek. I am a programming–languages enthusiast and love to create my own. All software should be open–source and free to use; privacy is supposed to be real. If you'd like to learn more information regarding me, [here's my website.](https://tixonochek.dev/)
+This account is owned by tixonochek. I am a programming–languages enthusiast and love to create my own. All software should be open–source and free to use; privacy is supposed to be real. If you'd like to learn more information regarding me, [here's my website.](https://tixonochek.dev/)
 
 ## 🫂 Моя Discord–спільнота
 Набридли мертві сервери, де в чатах лише тиша та спам? Приєднуйся до офіційного сервера **tixonochek** – місця, де ламаються стереотипи та створюється нестандартне. Ми побудували простір для тих, хто цінує чистий код, українську мову та затишну атмосферу.
